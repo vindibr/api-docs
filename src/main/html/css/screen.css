@@ -1194,19 +1194,22 @@
   display: block;
   text-decoration: none;
   font-weight: bold;
-  padding: 6px 8px;
+  padding: 5px 8px;
   font-size: 0.9em;
-  color: white;
-  background-color: #333;
+  color: #333;
+  background-color: #ffffff;
   -moz-border-radius: 4px;
   -webkit-border-radius: 4px;
   -o-border-radius: 4px;
   -ms-border-radius: 4px;
   -khtml-border-radius: 4px;
   border-radius: 4px;
+  border: 1px solid #ffffff;
 }
 .swagger-section #header form#api_selector .input a#explore:hover {
-  background-color: #333;
+  background-color: #092234;
+  color: #ffffff;
+  border: 1px solid #ffffff;
 }
 .swagger-section #header form#api_selector .input input {
   font-size: 0.9em;
