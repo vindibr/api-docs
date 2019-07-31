@@ -9,7 +9,6 @@ URL pública temporária: [https://vindi.github.io/api-docs/dist](https://vindi.
 2. Instale a versão necessária do Node.js (definida no arquivo `.nvmrc`:
    ```
    nvm install
-
    ```
 
 ## Desenvolvimento
