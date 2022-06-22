@@ -1,5 +1,5 @@
 import React from 'react';
-import logo from './assets/logo-branco.png';
+import logo from './assets/logo-azul.png';
 
 
 export default class CustomTopBar extends React.Component {
