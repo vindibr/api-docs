@@ -33,7 +33,7 @@ export default class Auths extends React.Component {
 
     fetch(url, {
       headers: new Headers({
-        'Authorization': 'Basic '+btoa(this.state.basic_auth.value.username)
+        'Authorization': 'Basic '+btoa(this.state.basic_auth.value.username+":")
       }),
     })
     .then(response => {
